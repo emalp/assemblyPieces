@@ -1,7 +1,9 @@
 # start of the main program
-# implements iterative version of N!
+# implements iterative version of fibonacci.
+# the program uses recursion but is non dynamic.
 # main assumes:
 #  f is in $s0 and n is in $s1
+# /********** written by emalp **********\
 
     .text
     .globl  main

@@ -1,3 +1,6 @@
+# program calculates the fibonacci of a given 'floating point' number1
+# /****** written by emalp ******\ 
+
     .text
     .globl  main
 main:                       # main has to be a global label

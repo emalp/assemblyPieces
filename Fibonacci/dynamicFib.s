@@ -1,8 +1,9 @@
 # start of the main program
-# implements iterative version of N!
+# implements iterative version of fibonacci using dynamic programming.
 # main assumes:
 #  f is in $s0 and n is in $s1
 # dynamic base address of alreadyStored is in $s2
+# /******* written by emalp ******\
 
     .text
     .globl  main

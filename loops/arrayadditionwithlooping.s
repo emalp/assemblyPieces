@@ -1,3 +1,4 @@
+# Program takes an array in p and does an accumulation on q.
 # s0 holds the value of N.
 # s1 holds base address of p.
 #s2 holds the base address of q.
@@ -7,6 +8,8 @@
 
 # t1 = current address of q in the loop.
 # t2 = current address of p in the loop.
+
+# /******** written by emalp **********\
 
 .data 
 	.globl message
